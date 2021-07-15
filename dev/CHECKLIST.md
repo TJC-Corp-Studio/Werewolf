@@ -1,0 +1,3 @@
+- [ ] Move all scripts to server side
+- [ ] Develope actions for roles
+  - [ ] Cupid
